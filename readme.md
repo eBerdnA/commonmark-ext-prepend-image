@@ -1,5 +1,7 @@
 # Extension to render lazy images in markdown
 
+![Tests](https://github.com/eberdna/commonmark-ext-prepend-image/workflows/Tests/badge.svg)
+
 This adds support to prepend image path/routes to the [league/commonmark](https://github.com/thephpleague/commonmark) package.
 
 ## Install
